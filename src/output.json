@@ -1,0 +1,98 @@
+{
+    "greeting": "Доброе утро!",
+    "cards": [
+        {
+            "last_digits": "7197",
+            "total_spent": -2319507.749999987,
+            "cashback": -23195.720000000147
+        },
+        {
+            "last_digits": "5091",
+            "total_spent": -14918.16,
+            "cashback": -149.18
+        },
+        {
+            "last_digits": "4556",
+            "total_spent": 545261.7199999986,
+            "cashback": 5452.570000000003
+        },
+        {
+            "last_digits": "1112",
+            "total_spent": -46207.08,
+            "cashback": -462.08
+        },
+        {
+            "last_digits": "5507",
+            "total_spent": -84000.0,
+            "cashback": -840.0
+        },
+        {
+            "last_digits": "6002",
+            "total_spent": -69200.0,
+            "cashback": -692.0
+        },
+        {
+            "last_digits": "5441",
+            "total_spent": -470854.8,
+            "cashback": -4708.55
+        }
+    ],
+    "top_transactions": [
+        {
+            "date": "21.03.2019 17:01:38",
+            "amount": 190044.51,
+            "category": "Переводы",
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR"
+        },
+        {
+            "date": "23.10.2018 12:26:15",
+            "amount": 177506.03,
+            "category": "Переводы",
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR"
+        },
+        {
+            "date": "30.12.2021 17:50:17",
+            "amount": 174000.0,
+            "category": "Пополнения",
+            "description": "Пополнение через Газпромбанк"
+        },
+        {
+            "date": "14.09.2021 14:57:42",
+            "amount": 150000.0,
+            "category": "Пополнения",
+            "description": "Перевод с карты"
+        },
+        {
+            "date": "31.07.2020 22:27:45",
+            "amount": 150000.0,
+            "category": "Пополнения",
+            "description": "Перевод с карты"
+        }
+    ],
+    "currency_rates": {
+        "USD": 87.539105,
+        "EUR": 94.836454
+    },
+    "stock_prices": [
+        {
+            "stock": "AAPL",
+            "rate": 227.09
+        },
+        {
+            "stock": "AMZN",
+            "rate": 200.04
+        },
+        {
+            "stock": "GOOGL",
+            "rate": 189.9
+        },
+        {
+            "stock": "MSFT",
+            "rate": 466.55
+        },
+        {
+            "stock": "TSLA",
+            "rate": 247.71
+        }
+    ]
+}
